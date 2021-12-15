@@ -1,0 +1,31 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=DesignICAss
+*Date=14:05:45
+*CreatedBy=Fritzing 0.9.4.2019-12-01.CD-498-0-a1ffcea
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;lipo-1000;93.5926;-15.4935;0;Bottom;U2
+2;0.030;5 mm [THT];73.593;-34.4004;0;Bottom;LED4
+3;;DIP8 [THT];36.7629;-22.3192;0;Bottom;U1
+4;;[THT];45.943;-45.7391;90;Bottom;S1
+5;0.030;5 mm [THT];73.5929;-19.2002;0;Bottom;LED3
+6;0.1mF;100 mil [THT, electrolytic];26.6029;-48.9892;180;Bottom;C2
+7;220;THT;58.3529;-26.1292;0;Bottom;R4
+8;220;THT;58.3529;-10.8892;0;Bottom;R1
+9;220;THT;58.3529;-18.5092;0;Bottom;R3
+10;0.030;5 mm [THT];73.5927;-11.5404;0;Bottom;LED1
+11;;dil14;13.9029;-21.0492;90;Bottom;U3
+12;91k;THT;25.3329;-36.2892;90;Bottom;R5
+13;91k;THT;30.4129;-36.2892;90;Bottom;R8
+14;220;THT;58.3529;-33.7492;0;Bottom;R2
+15;0.030;5 mm [THT];73.5927;-26.7804;0;Bottom;LED2
+16;10nF;100 mil [THT, multilayer];26.6029;-8.34918;0;Bottom;C3
